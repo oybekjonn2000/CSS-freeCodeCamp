@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+button {
+    font: inherit;
+}
+
+:root {
+    /*Colors*/
+    --BGCOLOR: whitesmoke;
+    --COLOR: #000;
+    --HEADER-BGCOLOR: #333;
+    --HEADER-COLOR:whitesmoke;
+
+}
+/*
+UTILITY CLASSES*/
+.underline {
+    
+}
